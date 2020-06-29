@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Flowable 相关接口
- * @author linjinp
- * @date 2019/10/31 10:55
- */
+
 @RestController
 @RequestMapping("/login")
 public class FlowableController {
